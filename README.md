@@ -1,8 +1,3 @@
-scrolltopbottom
-===============
-
-Scroll top bottom
-
 // voltar ao topo
 $(function () {
      $('#goBottom').click(function () {
