@@ -1,7 +1,9 @@
 scrolltopbottom
 ===============
 
-Scroll top bottom// voltar ao topo
+Scroll top bottom
+
+// voltar ao topo
 $(function () {
      $('#goBottom').click(function () {
          $('html, body').animate({
